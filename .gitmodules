@@ -1,0 +1,6 @@
+[submodule "ICO_DEMO-1"]
+	path = ICO_DEMO-1
+	url = https://github.com/xmaherr/ICO_DEMO-1.git
+[submodule "firstServletDemo"]
+	path = firstServletDemo
+	url = https://github.com/xmaherr/firstServletDemo.git
