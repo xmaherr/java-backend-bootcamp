@@ -4,3 +4,6 @@
 [submodule "firstServletDemo"]
 	path = firstServletDemo
 	url = https://github.com/xmaherr/firstServletDemo.git
+[submodule "injection-1"]
+	path = injection-1
+	url = https://github.com/xmaherr/injection-1.git
