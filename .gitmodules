@@ -7,3 +7,6 @@
 [submodule "injection-1"]
 	path = injection-1
 	url = https://github.com/xmaherr/injection-1.git
+[submodule "vehicles-system-task2-session3"]
+	path = vehicles-system-task2-session3
+	url = https://github.com/xmaherr/vehicles-system-task2-session3.git
