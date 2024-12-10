@@ -13,3 +13,6 @@
 [submodule "bean-scope-session4-task1"]
 	path = bean-scope-session4-task1
 	url = https://github.com/xmaherr/bean-scope-session4-task1.git
+[submodule "init-destroy-session4-task2"]
+	path = init-destroy-session4-task2
+	url = https://github.com/xmaherr/init-destroy-session4-task2.git
