@@ -10,3 +10,6 @@
 [submodule "vehicles-system-task2-session3"]
 	path = vehicles-system-task2-session3
 	url = https://github.com/xmaherr/vehicles-system-task2-session3.git
+[submodule "bean-scope-session4-task1"]
+	path = bean-scope-session4-task1
+	url = https://github.com/xmaherr/bean-scope-session4-task1.git
