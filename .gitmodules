@@ -16,3 +16,6 @@
 [submodule "init-destroy-session4-task2"]
 	path = init-destroy-session4-task2
 	url = https://github.com/xmaherr/init-destroy-session4-task2.git
+[submodule "vehicle-system-session5-task"]
+	path = vehicle-system-session5-task
+	url = https://github.com/xmaherr/vehicle-system-session5-task.git
