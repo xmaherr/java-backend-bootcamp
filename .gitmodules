@@ -22,3 +22,6 @@
 [submodule "vehicle-system-session6-task"]
 	path = vehicle-system-session6-task
 	url = https://github.com/xmaherr/vehicle-system-session6-task.git
+[submodule "MVC-session7-task"]
+	path = MVC-session7-task
+	url = https://github.com/xmaherr/MVC-session7-task.git
