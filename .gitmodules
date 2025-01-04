@@ -28,3 +28,6 @@
 [submodule "MVC-session9-task"]
 	path = MVC-session9-task
 	url = https://github.com/xmaherr/MVC-session9-task.git
+[submodule "MVC-Validation"]
+	path = MVC-Validation
+	url = https://github.com/xmaherr/MVC-Validation.git
