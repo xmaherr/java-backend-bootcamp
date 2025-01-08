@@ -31,3 +31,9 @@
 [submodule "MVC-Validation"]
 	path = MVC-Validation
 	url = https://github.com/xmaherr/MVC-Validation.git
+[submodule "hibernate-orm-crud-session11"]
+	path = hibernate-orm-crud-session11
+	url = https://github.com/xmaherr/hibernate-orm-crud-session11.git
+[submodule "HQL-session12"]
+	path = HQL-session12
+	url = https://github.com/xmaherr/HQL-session12.git
