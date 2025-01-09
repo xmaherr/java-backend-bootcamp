@@ -37,3 +37,6 @@
 [submodule "HQL-session12"]
 	path = HQL-session12
 	url = https://github.com/xmaherr/HQL-session12.git
+[submodule "Hibernate-ORM-session13"]
+	path = Hibernate-ORM-session13
+	url = https://github.com/xmaherr/Hibernate-ORM-session13.git
